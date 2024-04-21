@@ -1,0 +1,98 @@
+body {
+    background-color: blanchedalmond;
+}
+p {
+    font-size: 50px;
+    background-color: beige;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+table {
+    font-size: 24px;
+    border: 4px double black;
+    width: 100%;
+    border-collapse: separate;
+    margin: auto;
+}
+th, td {
+    border: 1px solid black;
+    background-size: 100%;
+    height: 50px;
+    background-position: center;
+}
+tr:hover {
+    background-color: lightslategray;
+}
+td:hover {
+    background-image: url(https://i.pinimg.com/originals/1f/a2/2b/1fa22befc10e3cbacd58c5b407a97997.gif);
+    background-size: 100%;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+    text-transform: uppercase;
+    font-size: 1.1em;
+}
+td {
+    background-color: white;
+    text-align: center;
+}
+th {
+    background: linear-gradient(to left, black, white);
+}
+caption {
+    background: linear-gradient(black, whitesmoke);
+    font-size: 44px;
+    text-align: center;
+}
+.td1:hover {
+    background-image: url(https://i.pinimg.com/564x/0b/05/ea/0b05eac87c7342a8f5a86ab377b98dc4.jpg);
+    background-size: 100%;
+    width: 250px;
+    height: 250px;
+}
+.td2:hover {
+    background-image: url(https://i.pinimg.com/564x/33/c6/8a/33c68ac0e9f5b868c1b9ab4197e1f9e1.jpg);
+    background-size: 100%;
+    width: 250px;
+    height: 250px;
+}
+.td3:hover {
+    background-image: url(https://i.pinimg.com/564x/3d/ac/6e/3dac6e7ab1990da49c18f6313566dbe9.jpg);
+    background-size: 100%;
+    width: 250px;
+    height: 250px;
+}
+.td4:hover {
+    background-image: url(https://i.pinimg.com/564x/a6/c6/02/a6c602bb49e0c74bb75de94cee867c67.jpg);
+    background-size: 100%;
+    width: 250px;
+    height: 250px;
+}
+.td5:hover {
+    background-image: url(https://i.pinimg.com/564x/af/de/7d/afde7db989e940861f1dc0de500c727b.jpg);
+    background-size: 100%;
+    width: 250px;
+    height: 250px;
+}
+.td6:hover {
+    background-image: url(https://i.pinimg.com/564x/7c/bf/4a/7cbf4a50908fc18bb707bbbe36cd2431.jpg);
+    background-size: 100%;
+    width: 250px;
+    height: 250px;
+}
+.td7:hover {
+    background-image: url(https://i.pinimg.com/564x/42/3c/66/423c66e3134d2ee6e7da7a17e4a674f3.jpg);
+    background-size: 100%;
+    width: 250px;
+    height: 250px;
+}
+.td8:hover {
+    background-image: url(https://i.pinimg.com/564x/0f/77/d5/0f77d523136d71ff8d9f8f546fdbbc57.jpg);
+    background-size: 100%;
+    width: 250px;
+    height: 250px;
+}
+.s {
+    border: 2px dotted blue;
+}
